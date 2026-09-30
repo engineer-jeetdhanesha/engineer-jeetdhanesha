@@ -5,9 +5,6 @@
 I build scalable, reliable data pipelines across BFSI, FinTech and Health Insurance: legacy platform modernization, large-volume processing (billions of records), performance tuning, and SLA improvement.
 
 - 📍 **Location:** Gandhinagar, Gujarat, India
-- 🎓 **Education:** M.Tech in Data Science & Engineering (Online), BITS Pilani
-- 🎓 **Education:** B.E. in Electronics & Communication, GTU
-- 🏅 **Certifications:** Databricks Certified Data Engineer Associate · Microsoft Certified: Azure Data Fundamentals (DP-900)
 
 ---
 
@@ -22,6 +19,17 @@ I build scalable, reliable data pipelines across BFSI, FinTech and Health Insura
 | CI/CD & Tools | Azure DevOps, Databricks Asset Bundles, Git, GitHub, Ansible |
 | Orchestration | Databricks Workflows, Azure Data Factory, CA Autosys |
 | Familiar with | Confluent Kafka, Spark Streaming |
+
+---
+
+## 🎓 Education & Certifications
+
+| Type | Details |
+|---|---|
+| Education | M.Tech in Data Science & Engineering (Online), BITS Pilani |
+| Education | B.E. in Electronics & Communication, GTU |
+| Certification | Databricks Certified Data Engineer Associate |
+| Certification | Microsoft Certified: Azure Data Fundamentals (DP-900) |
 
 ---
 
