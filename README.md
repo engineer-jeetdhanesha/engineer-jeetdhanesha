@@ -22,14 +22,17 @@ I build scalable, reliable data pipelines across BFSI, FinTech and Health Insura
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
-| Type | Details |
-|---|---|
-| Education | M.Tech in Data Science & Engineering (Online), BITS Pilani |
-| Education | B.E. in Electronics & Communication, GTU |
-| Certification | Databricks Certified Data Engineer Associate |
-| Certification | Microsoft Certified: Azure Data Fundamentals (DP-900) |
+- **M.Tech** in Data Science & Engineering (Online), BITS Pilani
+- **B.E.** in Electronics & Communication, GTU
+
+---
+
+## 🏅 Certifications
+
+- Databricks Certified Data Engineer Associate
+- Microsoft Certified: Azure Data Fundamentals (DP-900)
 
 ---
 
