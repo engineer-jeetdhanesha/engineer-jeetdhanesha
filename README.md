@@ -35,4 +35,5 @@ I build scalable, reliable data pipelines across BFSI, FinTech and Health Insura
 
 ## 📫 Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeetdhanesha/)
 [![Email](https://img.shields.io/badge/Email-jeet.m.dhanesha@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:jeet.m.dhanesha@gmail.com)
