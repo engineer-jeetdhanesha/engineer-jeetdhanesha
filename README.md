@@ -2,8 +2,6 @@
 
 **Data Engineer** | 4.5+ years | Python · SQL · PySpark · Azure · Databricks
 
-I build scalable, reliable data pipelines across BFSI, FinTech and Health Insurance: legacy platform modernization, large-volume processing (billions of records), performance tuning, and SLA improvement.
-
 - 📍 **Location:** Gandhinagar, Gujarat, India
 
 ---
